@@ -19,6 +19,7 @@ Examples in this repository:
 
 Other repositories about PHP FFI:
 
+- [Native Win32 MessageBoxes Lib](https://github.com/terremoth/php-win32dialog)
 - [DBus access via FFI and PHP 7.4 POC](https://github.com/paxal/php-dbus)
 - [Driving webview using PHP 7.4 FFI](https://github.com/andyvanee/php-webview-ffi)
 - [PHP wrapper for libsass using FFI](https://github.com/shyim/php-sass)
